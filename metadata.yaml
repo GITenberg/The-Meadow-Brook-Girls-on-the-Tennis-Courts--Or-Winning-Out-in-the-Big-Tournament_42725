@@ -1,0 +1,25 @@
+_repo: The-Meadow-Brook-Girls-on-the-Tennis-Courts--Or-Winning-Out-in-the-Big-Tournament_42725
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42725-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Aldridge, Janet
+    gutenberg_agent_id: '5139'
+    url: http://www.gutenberg.org/2009/agents/5139
+description: ''
+gutenberg_issued: '2013-05-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42725'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tennis -- Tournaments -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Teenage girls -- Juvenile fiction'
+title: The Meadow-Brook Girls on the Tennis Courts; Or, Winning Out in the Big Tournament
+url: http://www.gutenberg.org/ebooks/42725
